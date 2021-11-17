@@ -1,9 +1,7 @@
 # Ligths Out
 
-## Trabajo Practico - Segundo semestre 2021
-
 ***
-El trabajo práctico consiste en desarrollar una aplicación orientado a un juego llamado “Lights out”, el mismo consiste en apagar todas las luces de un tablero presionando las diferentes botones presentes en el mismo. La dificultad del juego radica en el hecho de que al presionar un botón, este cambia de estado entre on y off, así como también sus botones adyacentes (arriba, abajo, izquierda, derecha).
+La aplicación se  ve orientada a un juego llamado “Lights out”, el mismo consiste en apagar todas las luces de un tablero presionando las diferentes botones presentes en el mismo. La dificultad del juego radica en el hecho de que al presionar un botón, este cambia de estado entre on y off, así como también sus botones adyacentes (arriba, abajo, izquierda, derecha).
 ***
 
 ----------------------------------------------------
